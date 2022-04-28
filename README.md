@@ -1,5 +1,3 @@
-Thanks @Jabrils for making this great tutorial on Youtube to follow along. This was my first C# project, first day coding in the language and everything was coded alongside the tutorial by @Jabrils. The only code I truly copied and pasted was the first few lines and to be honest I'm still figuring out what those first few lines mean- help me out if it's something painfully obvious. 
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
